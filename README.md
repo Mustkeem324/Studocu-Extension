@@ -40,6 +40,6 @@ To upgrade Studocu-Extension to the latest version, follow these steps:
 
 ## Contribution:
 
-We welcome contributions to improve Stuack! If you have any suggestions, bug reports, or would like to contribute to the development, feel free to create an issue or submit a pull request on our [GitHub repository](https://github.com/Mustkeem324/Studocu-Extension).
+We welcome contributions to Studocu-Extension improve ! If you have any suggestions, bug reports, or would like to contribute to the development, feel free to create an issue or submit a pull request on our [GitHub repository](https://github.com/Mustkeem324/Studocu-Extension).
 
 Happy studying!
