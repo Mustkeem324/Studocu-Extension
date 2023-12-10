@@ -28,3 +28,18 @@ Stuack is a Chrome extension designed for www.studocu.com, providing free access
 6. Enjoy! 😊
 
 ![Installation](https://user-images.githubusercontent.com/67743899/149144506-714a84a0-cd10-4155-91fe-20c39753b578.jpg)
+
+## Upgrade:
+
+To upgrade Stuack to the latest version, follow these steps:
+
+1. Visit the [Stuack repository](https://github.com/yourusername/stuack) on GitHub.
+2. Download the latest release or clone the repository to your local machine.
+3. Unzip the downloaded file if needed.
+4. Open the extensions tab in Google Chrome (`chrome://extensions/`).
+5. Disable the existing Stuack extension by toggling the switch off.
+6. Follow steps 3-5 from the Installation section to load the new version of the extension.
+7. Enable the updated extension.
+8. Enjoy the latest features and improvements! 😊
+
+Feel free to check the [Release Notes](https://github.com/yourusername/stuack/releases) for information about the latest changes and enhancements.
