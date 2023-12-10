@@ -1,6 +1,6 @@
-# Stuack Chrome Extension
+# Studocu Chrome Extension
 
-Stuack is a Chrome extension designed for www.studocu.com, providing free access to premium features.
+Studocu-Extension is a Chrome extension designed for www.studocu.com, providing free access to premium features.
 
 ## Features:
 
@@ -27,9 +27,9 @@ Stuack is a Chrome extension designed for www.studocu.com, providing free access
 
 ## Upgrade:
 
-To upgrade Stuack to the latest version, follow these steps:
+To upgrade Studocu-Extension to the latest version, follow these steps:
 
-1. Visit the [Stuack repository](https://github.com/Mustkeem324/Studocu-Extension) on GitHub.
+1. Visit the [Studocu-Extension repository](https://github.com/Mustkeem324/Studocu-Extension) on GitHub.
 2. Download the latest release or clone the repository to your local machine.
 3. Unzip the downloaded file if needed.
 4. Open the extensions tab in Google Chrome (`chrome://extensions/`).
